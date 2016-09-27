@@ -14,6 +14,7 @@
 		ED00F11D1D98C5C600E167E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED00F11B1D98C5C600E167E4 /* LaunchScreen.storyboard */; };
 		ED00F1281D98C5C600E167E4 /* TippyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED00F1271D98C5C600E167E4 /* TippyTests.swift */; };
 		ED00F1331D98C5C600E167E4 /* TippyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED00F1321D98C5C600E167E4 /* TippyUITests.swift */; };
+		ED00F1411D98E27900E167E4 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED00F1401D98E27900E167E4 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		ED00F12E1D98C5C600E167E4 /* TippyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TippyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED00F1321D98C5C600E167E4 /* TippyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TippyUITests.swift; sourceTree = "<group>"; };
 		ED00F1341D98C5C600E167E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED00F1401D98E27900E167E4 /* SettingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				ED00F1121D98C5C600E167E4 /* AppDelegate.swift */,
 				ED00F1141D98C5C600E167E4 /* ViewController.swift */,
 				ED00F1161D98C5C600E167E4 /* Main.storyboard */,
+				ED00F1401D98E27900E167E4 /* SettingViewController.swift */,
 				ED00F1191D98C5C600E167E4 /* Assets.xcassets */,
 				ED00F11B1D98C5C600E167E4 /* LaunchScreen.storyboard */,
 				ED00F11E1D98C5C600E167E4 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				ED00F1151D98C5C600E167E4 /* ViewController.swift in Sources */,
 				ED00F1131D98C5C600E167E4 /* AppDelegate.swift in Sources */,
+				ED00F1411D98E27900E167E4 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
