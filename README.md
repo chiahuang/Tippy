@@ -30,13 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/QnHTp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://imgur.com/rsKCDL7)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The challenges I have encountered while building the app was understanding how view controller works. In addition, as I was working on building the app, I was interested in different object library in iOS app. I was confused which object library to use. I search most of my question through google however, it would be great if there was a site that provide examples of each object library. I am still learning to become a better iOS developer
+The challenges I have encountered while building the app was understanding how view controller works. In addition, as I was working on building the app, I was interested in different object library in iOS app. I was confused which object library to use. I search most of my question through google however, it would be great if there was a site that provide examples of each object library. I am still learning to become a better iOS developer.
 
 
 ## License
